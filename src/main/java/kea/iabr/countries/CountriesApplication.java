@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CountriesApplication {
 
-    //swag
+    //help
     public static void main(String[] args) {
         SpringApplication.run(CountriesApplication.class, args);
     }
